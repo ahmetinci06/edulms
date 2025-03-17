@@ -6,7 +6,6 @@ npm run dev
 
 > 🧑‍🚀 **Seasoned astronaut**
 
-![just-the-basics]()
 
 ## 🚀 Project Structure
 
