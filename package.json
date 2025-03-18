@@ -9,7 +9,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.5.2"
+    "@auth/core": "^0.37.4",
+    "astro": "^5.5.2",
+    "auth-astro": "^4.2.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.51.1",
